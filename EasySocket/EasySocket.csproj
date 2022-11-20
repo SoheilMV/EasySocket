@@ -8,10 +8,11 @@
     <Company>MVSoft</Company>
     <Description>Easy to use TCP/UDP Server/Client in .NET</Description>
     <Copyright>© 2022 MVSoft. All rights reserved.</Copyright>
-    <PackageProjectUrl>https://github.com/SoheilMV?tab=repositories</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/SoheilMV/EasySocket</PackageProjectUrl>
     <RepositoryUrl>https://github.com/SoheilMV/EasySocket</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
     <PackageTags>tcp, udp, socket, server, client, tcpserver, tcpclient, udpserver, udpclient</PackageTags>
+    <PackageId>EasySocketSharp</PackageId>
   </PropertyGroup>
 
 </Project>
